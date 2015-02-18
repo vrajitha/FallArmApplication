@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Venkat\Desktop\NPU\Sem3_Spring2014\CS551\CS551_FallArm_Project_ii_RajithaVodela_10420\Q6\helloandroid1\app\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Venkat\Desktop\NPU\Sem3_Spring2014\CS551\CS551_FallArm_Project_ii_RajithaVodela_10420\Q6\helloandroid1\app\src\debug\assets" />
+    </dataSet>
+
+</merger>
